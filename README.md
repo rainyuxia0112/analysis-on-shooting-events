@@ -7,17 +7,16 @@ Demo : https://public.tableau.com/profile/rain7053#!/vizhome/shootingsummary/Sta
 - Prior signs of possible mental illness
 - Race
 - Gender
-3)
-Use NLP method to draw wordcloud, finding keywords in the shooting and mental health descriptions
+3) Use NLP method to draw wordcloud, finding keywords in the shooting and mental health descriptions
 
-3) Interactive Barplots and Anova table
+4) Interactive Barplots and Anova table
 - total victims(break down:fatalities, injured) vs. year bar plots (chronological)
 - total victims(break down:fatalities, injured) vs. weapon bar plots
 - total victims(break down:fatalities, injured) vs. venue bar plots
 - total victims(break down:fatalities, injured) vs. race of mental illness bar plots 
 - total victims(break down:fatalities, injured) vs. gender of mental illness bar plots 
 
-4) Regression Model - MLR => model selection
+5) Regression Model - MLR => model selection
 
 ## Built With
 * [Matplotlib](https://matplotlib.org/) - Python 2D plotting library which produces publication quality figures.
